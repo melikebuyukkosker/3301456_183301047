@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "83956234658",
+    "project_id": "milkshop-5d8a1",
+    "storage_bucket": "milkshop-5d8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83956234658:android:2c5505318436e6bf1adafb",
+        "android_client_info": {
+          "package_name": "com.example.milkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83956234658-v5gqv0mejvehqu736065asm7l110vq75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr8LDjZfm26G9L_94ZbznC4KbOXyYP6RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83956234658-v5gqv0mejvehqu736065asm7l110vq75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "83956234658-hffiof30m7hka4rc25cacphvqfd5jli2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
